@@ -1,0 +1,39 @@
+# Gradle files
+.gradle/
+build/
+.gradle
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+.idea/
+.DS_Store
+*.ipr
+*.iml
+*.iws
+out/
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# File-based project format
+*.iws
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# the whole idea folder
+.idea/
+
+# classfiles
+bin/
